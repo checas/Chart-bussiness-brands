@@ -1,0 +1,36 @@
+.bussines_container {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    background-color: #004785;
+    background-image: url('./assets/IMB\ -\ Breech\ Lock.png');
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.grid_container {
+    margin-left: 50px;
+}
+
+.brands_container {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.brand_container {
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.brand {
+    height: 140px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+   
+}
